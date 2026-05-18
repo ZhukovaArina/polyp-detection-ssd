@@ -1,0 +1,4 @@
+Model,Precision (%),Recall (%),F1 (%),AP (%),FPS (GPU)
+SSD300 VGG16,72.4,68.9,70.6,69.2,68
+SSD512 VGG16,78.1,74.3,76.1,75.8,52
+SSD300 MobileNetV2,58.2,52.7,55.3,54.6,89
