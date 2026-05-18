@@ -1,8 +1,3 @@
-Вот готовый **README.md** для твоего GitHub репозитория:
-
----
-
-```markdown
 # 🔬 SSD Polyp Detector for Endoscopic Images
 
 Разработка алгоритма детектирования полипов на эндоскопических изображениях с использованием сверточных нейронных сетей (архитектура SSD).
@@ -213,7 +208,7 @@ netron>=7.0.0
 
 ## 🔗 Ссылки
 
-- [Репозиторий на GitHub](https://github.com/ariana-zhukova/polyp-detection-ssd)
+- [Репозиторий на GitHub](https://github.com/ZhukovaArina/polyp-detection-ssd)
 - [Датасет CVC-ClinicDB](https://www.kaggle.com/datasets/orvile/cvc-clinicdb)
 - [Документация PyTorch](https://pytorch.org/)
 
